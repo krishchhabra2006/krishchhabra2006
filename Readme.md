@@ -1,26 +1,46 @@
 <h1 align="center">Hi 👋, I'm Krish Chhabra</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer | Computer Science Student</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | Competitive Programmer | Java Developer
+</h3>
 
 <p align="center">
-Passionate about building scalable web applications, solving algorithmic problems, and continuously learning modern technologies.
+Passionate about building scalable web applications, solving challenging algorithmic problems, and continuously learning modern technologies.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krishchhabra2006&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 B.Tech CSE Student (2024–2028)
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **MERN Stack & DevOps**
-- ⚡ Competitive Programmer
-- 🎯 Goal: Build impactful software and contribute to Open Source
+🎓 B.Tech Computer Science Engineering Student (2024–2028)
+
+💻 Passionate about Full Stack Web Development
+
+🌱 Currently Learning **MERN Stack & DevOps**
+
+🧠 Strong interest in Data Structures & Algorithms
+
+🏆 Competitive Programmer
+
+☁️ Learning Cloud Technologies (AWS)
+
+🎯 Goal: Build impactful software and contribute to Open Source.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/krish-chhabra-60a802416/" target="_blank">
+<p align="center">
+
+<a href="https://github.com/krishchhabra2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krish-chhabra-60a802416/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -28,101 +48,178 @@ Passionate about building scalable web applications, solving algorithmic problem
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Krish_Chhabra/" target="_blank">
+<a href="https://leetcode.com/u/Krish_Chhabra/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codolio.com/profile/Krish_Chhabra" target="_blank">
+<a href="https://codeforces.com/profile/batman_91">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/batman_91">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/Krish_Chhabra">
 <img src="https://img.shields.io/badge/Codolio-0A66C2?style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,sql"/>
+</p>
 
-### Frontend
+### ⚙️ Frameworks & Libraries
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
+</p>
 
-### Backend
+### 🗄️ Database
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
-### Database
+### ☁️ Cloud & Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
 ### 🌐 Cloud Portfolio Website
-Responsive personal portfolio deployed using cloud technologies.
+- Responsive personal portfolio website
+- Optimized UI/UX
+- Cloud deployment
+
+---
 
 ### ✅ Task Tracker
-CRUD-based task management application with clean UI.
+- CRUD Operations
+- Clean UI
+- Productivity-focused design
+
+---
 
 ### 💰 Expense Tracker
-Track expenses, categorize spending, and visualize insights.
+- Expense categorization
+- Financial insights
+- Responsive dashboard
+
+---
 
 ### 🛒 E-Commerce Store
-Responsive shopping application with cart functionality.
+- Product listing
+- Shopping cart
+- Responsive design
 
 ---
 
-## 📈 Coding Profiles
+# 🏆 Competitive Programming
 
-- 💛 LeetCode: https://leetcode.com/u/Krish_Chhabra/
-- 🔥 Codolio: https://codolio.com/profile/Krish_Chhabra
-- 🚀 Codeforces
-- ⭐ CodeChef
-- ⚡ AtCoder
+### 🚀 Codeforces
+
+🔗 https://codeforces.com/profile/batman_91
 
 ---
 
-## 📊 GitHub Stats
+### 💛 LeetCode
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+🔗 https://leetcode.com/u/Krish_Chhabra/
 
 ---
 
-## 🏆 GitHub Trophies
+### ⭐ CodeChef
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+🔗 https://www.codechef.com/users/batman_91
 
 ---
 
-### 💡 Quote
+### 📊 Codolio
 
-> "Consistency beats intensity. Keep building, keep learning."
+🔗 https://codolio.com/profile/Krish_Chhabra
 
-⭐ If you like my work, consider giving a star to my repositories!
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishchhabra2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishchhabra2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishchhabra2006&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krishchhabra2006&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishchhabra2006&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🌱 Learning MERN Stack
+- ☁️ Exploring DevOps & AWS
+- ⚡ Solving DSA Problems Daily
+- 🚀 Building Full Stack Projects
+- 📖 Preparing for Software Engineering Roles
+
+---
+
+# 📫 Contact
+
+📧 **Email:** ckrish.9084@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/krish-chhabra-60a802416/
+
+🌍 **GitHub:**  
+https://github.com/krishchhabra2006
+
+---
+
+# 💡 Quote
+
+> *"Consistency beats intensity. Build every day, improve every day."*
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+</p>
