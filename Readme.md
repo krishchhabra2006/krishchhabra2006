@@ -98,13 +98,6 @@ Passionate about building scalable web applications, solving challenging algorit
 
 # 🚀 Featured Projects
 
-### 🌐 Cloud Portfolio Website
-- Responsive personal portfolio website
-- Optimized UI/UX
-- Cloud deployment
-
----
-
 ### ✅ Task Tracker
 - CRUD Operations
 - Clean UI
@@ -232,6 +225,6 @@ https://github.com/krishchhabra2006
 
 <p align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐Happy coding! 🚀
 
 </p>
