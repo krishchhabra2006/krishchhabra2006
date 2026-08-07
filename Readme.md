@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish Chhabra</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Competitive Programmer | Java Developer
+🚀 Full Stack Developer | Competitive Programmer
 </h3>
 
 <p align="center">
@@ -186,6 +186,18 @@ Passionate about building scalable web applications, solving challenging algorit
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishchhabra2006&theme=tokyo-night"/>
 
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishchhabra2006/krishchhabra2006/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishchhabra2006/krishchhabra2006/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/krishchhabra2006/krishchhabra2006/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---
